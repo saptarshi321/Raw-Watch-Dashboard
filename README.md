@@ -73,4 +73,4 @@ This dashboard enables decision-makers to boost sales, maximize profit margins, 
 📸 Screenshot :
 
 Let's See how the dashboard looks :- ![Alt text](https://github.com/username/repo/assets/image.png).
-![Dashboard Preview]().
+![Dashboard Preview](https://github.com/saptarshi321/Raw-Watch-Dashboard/blob/main/Raw%20Watch%20Dashboard.png).
